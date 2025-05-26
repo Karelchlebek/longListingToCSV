@@ -25,7 +25,7 @@
 #define MAXSTR 500 
 #define MAXRETRIES 30
 int main(int argc, char *argv[])
-{
+
 
 	FILE *ifp ;
 	FILE *ftypes ; /* an external file which holds file types to be filtered, e.g. Video.txt. */
