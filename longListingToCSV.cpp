@@ -20,7 +20,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <unistd.h>
-#include <ctype.h>
+#include <ctype.h> // usualstuff of comments
 
 #define MAXSTR 500 
 #define MAXRETRIES 30
